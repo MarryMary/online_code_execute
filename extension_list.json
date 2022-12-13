@@ -1,0 +1,8 @@
+{
+    "php": ".php",
+    "python": ".py",
+    "perl": ".pl",
+    "ruby": ".rb",
+    "go": ".go",
+    "javascript": ".js"
+}
